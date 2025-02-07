@@ -1,7 +1,7 @@
 # README - Tuberculosis Detection on Chest X-Rays
 
 ## Introduction
-This project focuses on developing a deep learning model for automated tuberculosis detection from chest X-ray images. The model leverages Convolutional Neural Networks (CNN) combined with Coordinate Attention (CoordAttention) to enhance accuracy in medical image diagnosis.
+This project explores the potential of deep learning models for automated tuberculosis detection from chest X-ray images. The study focuses on analyzing and comparing existing academic research rather than implementing a fully operational system. It leverages Convolutional Neural Networks (CNN) combined with Coordinate Attention (CoordAttention) to enhance accuracy in medical image diagnosis.
 
 ## Authors
 - **Mai Thanh Lam** (Student ID: 20119137)
