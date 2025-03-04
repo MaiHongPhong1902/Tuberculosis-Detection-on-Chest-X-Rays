@@ -29,17 +29,6 @@ The model achieved:
 
 Compared to previous models like ConvNet, ResNet50, and B-CNN, the VGG16-CoordAttention model demonstrated superior performance.
 
-## Usage
-1. **Install required libraries:**
-    ```bash
-    pip install tensorflow torch torchvision numpy opencv-python matplotlib
-    ```
-2. **Run the model:**
-    ```bash
-    python train.py  # Train the model
-    python test.py   # Test the model
-    ```
-
 ## Conclusion
 This project highlights the potential of using CNNs with attention mechanisms to support medical diagnosis. In the future, the research team aims to optimize the model for deployment on mobile devices.
 
